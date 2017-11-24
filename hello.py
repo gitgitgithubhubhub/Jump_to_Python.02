@@ -1,4 +1,4 @@
 str = "hello world~!"
 
-for x in range(5) : asdfdfdfdfdfsdfsdf
-    print(str * x) asdfsadfsadfdd
+for x in range(5) :
+    print(str * x)
